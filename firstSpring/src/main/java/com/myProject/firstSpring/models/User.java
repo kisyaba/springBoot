@@ -3,6 +3,7 @@ package com.myProject.firstSpring.models;
 import javax.persistence.*;
 
 @Entity
+//@Table("")
 public class User {
 
     @Id
